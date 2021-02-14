@@ -1,4 +1,4 @@
-# minimalist
+# minimalist.vim
 
 A minimal vim colorscheme. There is no intention to add any support for GUI versions
 of vim.
@@ -6,7 +6,7 @@ of vim.
 ## Installation
 
 ```vim
-Plug 'chrisfroeschl/minimalist'
+Plug 'chrisfroeschl/minimalist.vim'
 ```
 
 ## Usage
