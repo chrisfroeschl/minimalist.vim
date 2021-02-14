@@ -1,6 +1,6 @@
 # minimalist
 
-A minimal vim theme. There is no intention to add any support for GUI versions
+A minimal vim colorscheme. There is no intention to add any support for GUI versions
 of vim.
 
 ## Installation
@@ -8,6 +8,8 @@ of vim.
 ```vim
 Plug 'chrisfroeschl/minimalist'
 ```
+
+## Usage
 
 ```vim
 :colorscheme minimalist

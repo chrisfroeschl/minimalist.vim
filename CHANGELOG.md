@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CHANGELOG.md file.
 - README.md file.
 - COPYING file.
-- Initial color theme.
+- Initial colorscheme.
 
 [unreleased]:
-[0.0.1]:
+[0.0.1]: https://github.com/chrisfroeschl/minimalist/releases/tag/0.0.1
