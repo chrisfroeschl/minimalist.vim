@@ -24,5 +24,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - COPYING file.
 - Initial colorscheme.
 
-[unreleased]:
+[Unreleased]: https://github.com/chrisfroeschl/minimalist
 [0.0.1]: https://github.com/chrisfroeschl/minimalist/releases/tag/0.0.1
