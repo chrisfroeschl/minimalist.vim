@@ -1,7 +1,6 @@
 # minimalist.vim
 
-A minimal vim colorscheme. There is no intention to add any support for GUI versions
-of vim.
+A minimal vim colorscheme.
 
 ## Installation
 

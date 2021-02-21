@@ -15,6 +15,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -
 
+## [0.0.2] - 2021-02-21
+
+### Added
+
+- Helper functions for more robust settings.
+- Highlight links instead of duplicate assignments.
+
+### Changed
+
+- Minimal (untested) GUI settings.
+- README.md description.
+- Some minor colors.
+
+### Removed
+
+- Duplicate settings.
+
 ## [0.0.1] - 2021-02-14
 
 ### Added
@@ -24,5 +41,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - COPYING file.
 - Initial colorscheme.
 
-[Unreleased]: https://github.com/chrisfroeschl/minimalist
-[0.0.1]: https://github.com/chrisfroeschl/minimalist/releases/tag/0.0.1
+[unreleased]: https://github.com/chrisfroeschl/minimalist
+[0.0.1]: https://github.com/chrisfroeschl/minimalist.vim/releases/tag/0.0.1
