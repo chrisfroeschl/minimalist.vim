@@ -43,3 +43,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [unreleased]: https://github.com/chrisfroeschl/minimalist
 [0.0.1]: https://github.com/chrisfroeschl/minimalist.vim/releases/tag/0.0.1
+[0.0.2]: https://github.com/chrisfroeschl/minimalist.vim/releases/tag/0.0.2
