@@ -13,3 +13,8 @@ Plug 'chrisfroeschl/minimalist.vim'
 ```vim
 :colorscheme minimalist
 ```
+
+## License
+
+Copyright (c) Chris Fröschl. Distributed under the same terms as Vim itself. See
+:help license.
