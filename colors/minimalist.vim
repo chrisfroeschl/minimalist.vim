@@ -1,6 +1,6 @@
 " File: minimalist.vim
 " Maintainer: Chris Fröschl <cfroeschl@protonmail.com>
-" Last Modified: Sun 21 Feb 2021 06:14:56 PM CET
+" Last Modified: Sun 28 Feb 2021 10:40:30 AM CET
 " License:
 " Copyright (c) Chris Fröschl. Distributed under the same terms as Vim itself.
 " See :help license
@@ -66,6 +66,9 @@ function s:HL(group, fg, ...)
     " Special.
     if a:0 >= 2 && strlen(a:2)
         let sp = a:2
+        if a:0 >= 3 && strlen(a:3)
+            let sp = a:2 . a:3
+        endif
     else
         let sp = 'NONE,'
     endif
@@ -118,8 +121,8 @@ call s:HL('Normal', s:white)
 call s:HL('Visual', s:none, s:grey)
 highlight! link VisualNOS Visual
 
-call s:HL('Search', s:black, s:yellow)
-call s:HL('IncSearch', s:black, s:olive)
+call s:HL('Search', s:yellow, s:black, s:reverse)
+call s:HL('IncSearch', s:olive, s:black, s:reverse)
 
 call s:HL('SpecialKey', s:lime, s:none, s:bold)
 call s:HL('NonText', s:none)
